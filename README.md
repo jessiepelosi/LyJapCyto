@@ -4,7 +4,9 @@ Code and data the paper: "<i>Lygodium japonicum</i> (Lygodiaceae) is represented
 
 This repository is divided into two folders:
 
-<b>1. Data </b> 
+<b>1. [SporePictures](https://github.com/jessiepelosi/LyJapCyto/tree/main/SporePictures) </b> 
 
-<b>2. Analysis </b>
+<b>2. Data </b> 
+
+<b>3. Analysis </b>
 
